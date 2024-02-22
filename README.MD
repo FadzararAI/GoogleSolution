@@ -1,8 +1,8 @@
 
 # UrbanGreenNest
-<img align="center" src="expl_images/OurLogo.png" alt="Main Logo">
-![Main Logo](expl_images/OurLogo.png) <br />
 <p align="center">
+<img src="expl_images/OurLogo.png" alt="Main Logo">
+<br />
 A brief description of the project revolving its technological (architecture) side.
 </p>
 ## Sequence Diagram
