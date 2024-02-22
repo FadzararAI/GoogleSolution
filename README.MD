@@ -5,8 +5,9 @@
 <br />
 A brief description of the project revolving its technological (architecture) side.
 </p>
+
 ## Sequence Diagram
-![Sequence Diagram](expl_images/sequencedig.png)
+![Sequence Diagram](expl_images/sequencedig.png) <br />
 The image above essentially conveys how would the urban farming project works. Basically the farmer (owner) will only monitor the automated processes being done as well as when it is delivering to the consumers from the app.
 
 ## Architectures
