@@ -46,7 +46,7 @@ The idea of using Firebase is to be able to utilize its feature of real-time dat
 
 ### Android (Consumer app)
 Our E-commerce app will be like the usual shopping apps which will be on mobile in the beginning. It will approximately look like this:
-![MobApp UI](expl_images/android/ui_prods.jpg)
+![MobApp UI](expl_images/android/ui_prods.jpg){: width="50%"}
 Other UI are also created such as the product overview and cart summary:
 ![Product Overview](expl_images/android/ui_prod_ovw.jpg)
 ![Cart Summary](expl_images/android/ui_cart_sum.jpg)
